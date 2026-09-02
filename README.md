@@ -1,6 +1,6 @@
 # Commercial Card Targeting & Product Analytics
 
-**A synthetic end-to-end analytics project simulating a commercial-card business's prospect-targeting and product-health workflow — built around the responsibilities in American Express Global Commercial Services' Product & Analytics apprenticeship JD.**
+**A synthetic end-to-end analytics project simulating a commercial-card business's prospect-targeting and product-health workflow.**
 
 > All data is synthetically generated (`data/generate_synthetic_data.py`). No real company, customer, or transaction data is used.
 
