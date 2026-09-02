@@ -1,0 +1,5 @@
+issue,records_affected,pct_of_total
+inconsistent_industry_casing,180,3.0
+missing_engagement_score,480,8.0
+missing_revenue,300,5.0
+duplicate_prospect_ids,0,0.0
