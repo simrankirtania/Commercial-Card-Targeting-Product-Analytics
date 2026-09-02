@@ -54,7 +54,7 @@ python scripts/03_product_health_dashboard.py
 **Product health dashboard**
 - Single-view dashboard combining targeting funnel, spend trend, A/B lift, and cohort retention — the kind of artifact used to brief stakeholders on product/portfolio performance
 
-![Dashboard](3.outputs/product_health_dashboard.png)
+![Dashboard](3. outputs/product_health_dashboard.png)
 
 ## How This Maps to the Role
 
